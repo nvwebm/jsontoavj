@@ -36,10 +36,9 @@ python 3
 ### Installing
 
 
-Say what the step will be
 
 ```
-pip install
+pip instal -r requirements.txt
 ```
 
 
